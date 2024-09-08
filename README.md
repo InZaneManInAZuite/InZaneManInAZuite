@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 My name is Toshiro Mendoza,
 
 I am currently a 2nd year student studying Bachelors of Advanced Science (Honours) / Bachelors of Engineering (Honours) Conjoint, specializing at Physics and Software Engineering respectively, at the University of Auckland.
@@ -6,8 +6,10 @@ I am currently a 2nd year student studying Bachelors of Advanced Science (Honour
 🌱 I am currently learning by working on PanGolden and using it to learn how to create a web-app with React, Node.js, .NET, and more for both backend and frontend.
 
 📫 Find me on:
-    Discord: InZaneManInAZuite
-    Instagram: toshiro_mendoza
+
+Discord: InZaneManInAZuite
+
+Instagram: toshiro_mendoza
     
 <!--
 **InZaneManInAZuite/InZaneManInAZuite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
