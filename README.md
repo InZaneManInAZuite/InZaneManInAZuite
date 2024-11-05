@@ -3,7 +3,7 @@ My name is Toshiro Mendoza,
 
 I am currently a 2nd year student studying Bachelors of Advanced Science (Honours) / Bachelors of Engineering (Honours) Conjoint, specializing at Physics and Software Engineering respectively, at the University of Auckland.
 
-🌱 I am currently learning by working on PanGolden and using it to learn how to create a web-app with React, Node.js, .NET, and more for both backend and frontend.
+🌱 I am currently learning by working on PanGolden and using it to learn how to create a web-app with React, .NET, and more for both backend and frontend.
 
 📫 Find me on:
 
